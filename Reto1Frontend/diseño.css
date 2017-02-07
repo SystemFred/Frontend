@@ -1,0 +1,73 @@
+﻿.header1 {
+	background: yellow;
+    text-align: center;
+    padding: 5px;
+    padding-bottom: 40px;
+}
+.nav1{
+	background: red;
+	position: absolute;
+	padding: 5px;
+	padding-right: 100px;
+	padding-bottom: 310px;
+}
+.section1{
+	background: #aff022;
+	padding: 5px;
+	padding-left: 170px;
+	padding-bottom: 310px;
+}
+.article1{
+	background: #002abc;
+	margin-left: 155px;
+	position:absolute;
+	padding: 5px;
+	top: 103px;
+	padding-right: 1124px;
+}
+.article2{
+	background: #002abc;
+	margin-left: 155px;
+	position:absolute;	
+	padding: 5px;
+	top: 153px;
+	padding-right: 1124px;
+}
+.article3{
+	background: #002abc;
+	margin-left: 155px;
+	position:absolute;
+	padding: 5px;
+	top: 203px;
+	padding-right: 1124px;
+}
+.article4{
+	background: #002abc;
+	margin-left: 155px;
+	position:absolute;
+	padding: 5px;
+	top: 253px;
+	padding-right: 1124px;
+}
+.article5{
+	background: #002abc;
+	margin-left: 155px;
+	position:absolute;
+	padding: 5px;
+	top: 303px;
+	padding-right: 1124px;
+}
+.article6{
+	background: #002abc;
+	margin-left: 155px;
+	position:absolute;
+	padding: 5px;
+	top: 353px;
+	padding-right: 1124px;
+}
+.footer1{
+	background: orange;
+	text-align: center;
+	padding: 5px;
+	padding-bottom: 40px;
+}
