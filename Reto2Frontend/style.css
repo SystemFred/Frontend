@@ -1,0 +1,44 @@
+html body{
+	background-color: #fffe00;
+	margin: top;
+}
+.luce{
+	background-color: yellow;
+	text-align: center;
+	text-decoration-line: border-bottom-left-radius: all;
+	margin-left: 700px;
+	margin-bottom: 100px;
+	color: green;
+
+}
+#tit{
+	text-align: center;
+	text-decoration-line: font-family: cursive;
+	color: orange;
+}
+
+.h1 ,.a1, .c1, .k1, .s1, .p1, .a11, .c11 ,.e1{
+	background:#000;height:70px;width:70px;position:absolute;margin-left: 420px
+}
+.h2 ,.a2, .c2, .s2, .p2, .a12, .c12 ,.e2{
+	background:#000;height:70px;width:70px;position:absolute; margin-left: 560px;
+}
+.h3 ,.a3, .c3, .s3, .p3, .a13, .c13 ,.e3{
+	background:#000;height:70px;width:70px;position:absolute; margin-left: 700px;
+}
+.a4,.s4, .p4, .a14 ,.e4{
+	background:#000;height:70px;width:70px;position:absolute; margin-left: 840px;
+}
+.s5{
+	background:#000;height:70px;width:70px;position:absolute; margin-left: 980px;
+}
+.k2{	
+     background:#000;height:10px;width:10px;position:absolute; margin-left: 580px;
+    -webkit-transform:skew(-30deg);
+    transform:skew(-30deg);
+}
+.k3{
+	background:#000;height:10px;width:10px;position:absolute; margin-left: 720px;
+    -webkit-transform:skew(30deg);
+    transform:skew(30deg);
+}
